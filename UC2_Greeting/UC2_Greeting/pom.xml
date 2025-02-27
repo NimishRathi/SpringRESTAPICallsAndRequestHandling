@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>SpringBoot_</groupId>
-	<artifactId>UC1_Greeting</artifactId>
+	<artifactId>UC2_Greeting</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UC1_Greeting</name>
+	<name>UC2_Greeting</name>
 	<description>Create a Helloworld Spring App</description>
 	<url/>
 	<licenses>

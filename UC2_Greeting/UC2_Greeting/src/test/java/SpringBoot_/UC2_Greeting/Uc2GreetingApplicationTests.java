@@ -1,10 +1,10 @@
-package SpringBoot_.UC1_Greeting;
+package SpringBoot_.UC2_Greeting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Uc1GreetingApplicationTests {
+class Uc2GreetingApplicationTests {
 
 	@Test
 	void contextLoads() {
